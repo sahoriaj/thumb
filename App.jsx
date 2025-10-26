@@ -164,10 +164,16 @@ const App = () => {
 
       <main>
         <div className="ad-container ad-top">
-          <div>
-            📢 <strong>Adsterra Ad Space</strong> - Top Banner (728x90 or Responsive)
-            <br /><small>Place your Adsterra code here</small>
-          </div>
+          <script type="text/javascript">
+	atOptions = {
+		'key' : '17bc7dfbc62fed0d61403b979d078ead',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//financialwagerepel.com/17bc7dfbc62fed0d61403b979d078ead/invoke.js"></script>
         </div>
 
         <div className="content-wrapper">
@@ -210,19 +216,31 @@ const App = () => {
             )}
 
             <div className="ad-container" style={{ marginTop: '30px' }}>
-              <div>
-                📢 <strong>Adsterra Ad Space</strong> - Bottom Banner (728x90 or Responsive)
-                <br /><small>Place your Adsterra code here</small>
-              </div>
+              <script type="text/javascript">
+	atOptions = {
+		'key' : '17bc7dfbc62fed0d61403b979d078ead',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//financialwagerepel.com/17bc7dfbc62fed0d61403b979d078ead/invoke.js"></script>
             </div>
           </div>
 
           <div className="ad-sidebar">
             <div className="ad-container">
-              <div>
-                📢 <strong>Adsterra</strong><br />Sidebar Ad<br />(300x250 or 300x600)
-                <br /><small>Place code here</small>
-              </div>
+              <script type="text/javascript">
+	atOptions = {
+		'key' : 'b69551af66b76fd516108721fb822277',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//financialwagerepel.com/b69551af66b76fd516108721fb822277/invoke.js"></script>
             </div>
           </div>
         </div>
